@@ -1,5 +1,7 @@
 
-域名到期，不赚钱，没续费，期待一个有缘人能收购（1098626505@qq.com，3000 块），如果有人收购就把域名续费即可，如果没有 **年后** 我将其改为免费，到时候需要下载最新的，最新版就不用激活，直接永久免费使用。
+免费了🆓。
+
+但是由于开发者账号也钱续费，所以 mac 想使用需要 `sudo xattr -rd com.apple.quarantine /Applications/Slide\ Browser.app`
 
 # SlideBrowser
 
