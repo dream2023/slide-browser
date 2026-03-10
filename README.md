@@ -1,7 +1,7 @@
 
 免费了🆓。
 
-但是由于开发者账号也钱续费，所以 mac 想使用需要 `sudo xattr -rd com.apple.quarantine /Applications/Slide\ Browser.app`
+但是由于苹果开发者账号也没钱续费，所以 mac 想使用需要 `sudo xattr -rd com.apple.quarantine /Applications/Slide\ Browser.app`，去 release 现在最新的：https://github.com/dream2023/slide-browser/releases
 
 # SlideBrowser
 
